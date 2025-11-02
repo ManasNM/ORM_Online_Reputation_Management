@@ -30,12 +30,12 @@ Visualization Tools: WordCloud, Plotly, Seaborn, Matplotlib
 
 ORM_Online_Reputation_Management/
 │
-├── ORM_Analysis.ipynb              # Main Jupyter notebook
-├── googleplaystore.csv             # Apps dataset
+├── ORM_Analysis.ipynb # Main Jupyter notebook
+├── googleplaystore.csv # Apps dataset
 ├── googleplaystore_user_reviews.csv# Reviews dataset
-├── ORM_Report.docx                 # Final summarized report
-├── README.md                       # Project documentation
-└── requirements.txt                # Python dependencies
+├── ORM_Report.docx # Final summarized report
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies
 
 
 ⚙️ Workflow
