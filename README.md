@@ -47,13 +47,21 @@ ORM_Online_Reputation_Management/
 ⚙️ Workflow
 
 Problem Understanding – Define ORM goals and relevance of NLP.
+
 Loading Libraries – Import essential Python packages.
+
 Loading Dataset – Load, inspect, and clean app and review data.
+
 Preprocessing – Tokenize, remove stopwords, and lemmatize text.
+
 EDA – Visualize sentiment trends and word frequencies.
+
 Model Training – Train and evaluate multiple classifiers.
+
 Parameter Tuning – Optimize model accuracy with GridSearchCV.
+
 Observations & Conclusion – Summarize findings and key insights.
+
 
 📊 Key Results
 
